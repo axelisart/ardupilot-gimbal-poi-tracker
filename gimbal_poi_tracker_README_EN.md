@@ -4,6 +4,10 @@ Lua script for ArduPlane 4.7 — Automatic POI locking and tracking with the CAD
 
 **Author:** Alexis Artus (2026)
 
+## Demo
+
+[![Watch the demo](plane.jpg)](https://youtu.be/RbMBZhsmI9k)
+
 ---
 
 ## Hardware Requirements
