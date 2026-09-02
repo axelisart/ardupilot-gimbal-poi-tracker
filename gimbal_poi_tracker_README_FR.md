@@ -6,7 +6,9 @@ Script Lua pour ArduPlane 4.7 — Verrouillage et suivi automatique d'un point d
 
 ## Démonstration
 
-[![Voir la démo](plane.jpg)](https://youtu.be/RbMBZhsmI9k)
+https://youtu.be/RbMBZhsmI9k
+
+![Démonstration](plane.jpg)
 
 ---
 
